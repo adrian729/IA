@@ -1,0 +1,12 @@
+Estos son los fuentes de CLIPS V 6.21 y los ejemplos
+
+Deberian poder compilarse en cualquier distribucion de linux. 
+Si se quiere el interfaz grafico solamente hace falta tener X windows
+
+Para la version de linea de comandos hacer simplemente
+
+make clips
+
+Para la version X windows hacer
+
+make -f makefile.x xclips
